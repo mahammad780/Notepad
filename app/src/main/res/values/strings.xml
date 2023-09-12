@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Notepad</string>
+    <string name="title_error">Put title for the note</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
